@@ -1,2 +1,2 @@
 # MayaStartUpScript
-![Alt text](/ElisaStresemann/MayaStartUpScript/blob/main/mayastartupscript.jpg?raw=true "Optional Title")
+![Alt text](/ElisaStresemann/MayaStartUpScript/mayastartupscript.jpg?raw=true "Optional Title")
